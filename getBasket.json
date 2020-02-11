@@ -1,0 +1,18 @@
+{
+    "amount": 12000,
+    "countGoods": 2,
+    "contents": [
+      {
+        "id_product": 1,
+        "product_name": "Монитор",
+        "price": 7500,
+        "quantity": 1
+      },
+      {
+        "id_product": 2,
+        "product_name": "Колонки",
+        "price": 4500,
+        "quantity": 1
+      }
+    ]
+  }
